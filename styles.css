@@ -2,8 +2,8 @@
 	display:grid;
 	width:200px;
 	height:200px;
-	grid-template-column:repeat(2,200px);
-	grid-template-row:repeat(2,200px);
+	grid-template-column:repeat(2,100px);
+	grid-template-row:repeat(2,100px);
 }
 .item-1{
 	background-color:red;
